@@ -1,7 +1,7 @@
-React Select component for country and state selcetion
+**React Select component for country and state selcetion**
 
-- This component offers the functionality to allow user select the country from the country list.
-- Populate the state list of respsective countries
+**- This component offers the functionality to allow user select the country from the country list.**
+**- Populate the state list of respsective countries**
 
 Table of Contents
 Installation
@@ -43,7 +43,7 @@ Guidelines for contributing to the project.
 
 How to reach the project maintainers.
 
-Your Name - sudhirwani8793@gmail.com
+contact - sudhirwani8793@gmail.com
 GitHub - sudhirwani
 
 Feel free to customize this template to better fit your project's needs. Happy coding!
